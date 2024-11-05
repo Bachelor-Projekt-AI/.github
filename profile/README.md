@@ -5,7 +5,7 @@ This organization existis because of the module "Bachelor Projekt" from the Univ
 ## 🙋 Contributors
 
 * 👾 David Hermann (`redeagle-dh`, fdai7352)
-* Philipp Völler (`philvoel`, fdai)
+* 🦀 Philipp Völler (`PhilVoel`, fdai7430)
 * Friederike von Gruben (`freddygrub`, fdai7519)
 * Jannis (?) (`jannisif`, fdai)
 
